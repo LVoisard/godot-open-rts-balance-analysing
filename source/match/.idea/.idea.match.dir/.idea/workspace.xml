@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a11d90b-bb69-4390-974b-870e70c86d36" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/alien.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/alien.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/astronautA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/astronautA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/astronautB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/astronautB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/barrel.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/barrel.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/barrels.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/barrels.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/barrels_rail.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/barrels_rail.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/bones.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/bones.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/chimney.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/chimney.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/chimney_detailed.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/chimney_detailed.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_corner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_corner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_cornerRound.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_cornerRound.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_cornerRoundWindow.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_cornerRoundWindow.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_cross.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_cross.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_detailed.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_detailed.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_end.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_end.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_open.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_open.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_roof.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_roof.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_split.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_split.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_wall.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_wall.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_wallCorner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_wallCorner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_window.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_window.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_windowClosed.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/corridor_windowClosed.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_cargoA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_cargoA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_cargoB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_cargoB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_miner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_miner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_racer.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_racer.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_speederA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_speederA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_speederB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_speederB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_speederC.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_speederC.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_speederD.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craft_speederD.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/crater.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/crater.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craterLarge.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/craterLarge.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_chair.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_chair.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_chairArms.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_chairArms.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_chairStool.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_chairStool.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_computer.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_computer.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_computerCorner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_computerCorner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_computerScreen.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/desk_computerScreen.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/gate_complex.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/gate_complex.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/gate_simple.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/gate_simple.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_largeA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_largeA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_largeB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_largeB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_roundA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_roundA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_roundB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_roundB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_roundGlass.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_roundGlass.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_smallA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_smallA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_smallB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/hangar_smallB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_barrel.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_barrel.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_barrelLarge.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_barrelLarge.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_generator.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_generator.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_generatorLarge.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_generatorLarge.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_wireless.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_wireless.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_wirelessCable.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/machine_wirelessCable.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/meteor.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/meteor.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/meteor_detailed.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/meteor_detailed.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/meteor_half.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/meteor_half.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackCornerLarge.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackCornerLarge.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackCornerSmall.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackCornerSmall.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackSlope.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackSlope.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackStraight.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackStraight.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackSupport.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackSupport.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackSupportCorner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trackSupportCorner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainBox.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainBox.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainCargo.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainCargo.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainEnd.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainEnd.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainFlat.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainFlat.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainFront.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainFront.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainPassenger.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/monorail_trainPassenger.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_corner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_corner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_cornerDiagonal.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_cornerDiagonal.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_cornerRound.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_cornerRound.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_cornerRoundLarge.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_cornerRoundLarge.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_cross.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_cross.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_end.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_end.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_entrance.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_entrance.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_open.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_open.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_rampLarge.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_rampLarge.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_rampSmall.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_rampSmall.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_ring.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_ring.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_ringHigh.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_ringHigh.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_ringHighEnd.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_ringHighEnd.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_ringSupport.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_ringSupport.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_split.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_split.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_straight.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_straight.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_supportHigh.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_supportHigh.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_supportLow.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/pipe_supportLow.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_center.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_center.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_corner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_corner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_cornerOpen.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_cornerOpen.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_cornerRound.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_cornerRound.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_end.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_end.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_high.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_high.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_large.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_large.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_long.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_long.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_low.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_low.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_side.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_side.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_small.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_small.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_smallDiagonal.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_smallDiagonal.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_straight.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/platform_straight.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rail.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rail.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rail_corner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rail_corner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rail_end.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rail_end.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rail_middle.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rail_middle.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_crystals.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_crystals.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_crystalsLargeA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_crystalsLargeA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_crystalsLargeB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_crystalsLargeB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_largeA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_largeA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_largeB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rock_largeB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_baseA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_baseA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_baseB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_baseB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_finsA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_finsA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_finsB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_finsB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_fuelA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_fuelA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_fuelB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_fuelB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_sidesA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_sidesA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_sidesB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_sidesB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_topA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_topA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_topB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocket_topB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocks_smallA.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocks_smallA.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocks_smallB.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rocks_smallB.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rover.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/rover.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/satelliteDish.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/satelliteDish.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/satelliteDish_detailed.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/satelliteDish_detailed.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/satelliteDish_large.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/satelliteDish_large.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/stairs.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/stairs.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/stairs_corner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/stairs_corner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/stairs_short.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/stairs_short.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/structure.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/structure.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/structure_closed.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/structure_closed.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/structure_detailed.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/structure_detailed.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/structure_diagonal.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/structure_diagonal.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/supports_high.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/supports_high.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/supports_low.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/supports_low.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_ramp.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_ramp.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_rampLarge.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_rampLarge.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_rampLarge_detailed.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_rampLarge_detailed.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadCorner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadCorner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadCross.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadCross.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadEnd.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadEnd.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadSplit.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadSplit.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadStraight.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_roadStraight.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_side.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_side.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_sideCliff.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_sideCliff.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_sideCorner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_sideCorner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_sideCornerInner.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_sideCornerInner.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_sideEnd.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/terrain_sideEnd.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/turret_double.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/turret_double.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/turret_single.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/turret_single.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/weapon_gun.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/weapon_gun.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/weapon_rifle.glb.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/models/kenney-spacekit/weapon_rifle.glb.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair001.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair001.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair002.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair002.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair003.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair003.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair004.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair004.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair005.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair005.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair006.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair006.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair007.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair007.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair008.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair008.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair009.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair009.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair010.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair010.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair011.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair011.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair012.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair012.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair013.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair013.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair014.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair014.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair015.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair015.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair016.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair016.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair017.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair017.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair018.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair018.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair019.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair019.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair020.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair020.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair021.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair021.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair022.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair022.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair023.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair023.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair024.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair024.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair025.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair025.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair026.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair026.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair027.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair027.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair028.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair028.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair029.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair029.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair030.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair030.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair031.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair031.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair032.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair032.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair033.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair033.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair034.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair034.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair035.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair035.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair036.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair036.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair037.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair037.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair038.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair038.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair039.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair039.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair040.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair040.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair041.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair041.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair042.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair042.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair043.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair043.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair044.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair044.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair045.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair045.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair046.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair046.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair047.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair047.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair048.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair048.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair049.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair049.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair050.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair050.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair051.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair051.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair052.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair052.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair053.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair053.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair054.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair054.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair055.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair055.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair056.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair056.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair057.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair057.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair058.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair058.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair059.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair059.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair060.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair060.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair061.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair061.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair063.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair063.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair064.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair064.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair065.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair065.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair066.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair066.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair067.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair067.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair068.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair068.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair069.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair069.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair070.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair070.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair071.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair071.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair072.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair072.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair073.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair073.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair074.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair074.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair075.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair075.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair076.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair076.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair077.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair077.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair078.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair078.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair079.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair079.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair080.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair080.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair081.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair081.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair082.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair082.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair083.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair083.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair084.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair084.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair085.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair085.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair086.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair086.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair087.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair087.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair088.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair088.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair089.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair089.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair090.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair090.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair091.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair091.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair092.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair092.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair093.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair093.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair094.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair094.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair095.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair095.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair096.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair096.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair097.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair097.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair098.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair098.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair099.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair099.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair100.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair100.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair101.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair101.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair102.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair102.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair103.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair103.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair104.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair104.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair105.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair105.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair106.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair106.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair107.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair107.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair108.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair108.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair109.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair109.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair110.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair110.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair111.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair111.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair112.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair112.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair113.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair113.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair114.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair114.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair115.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair115.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair116.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair116.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair117.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair117.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair118.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair118.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair119.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair119.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair120.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair120.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair121.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair121.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair122.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair122.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair123.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair123.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair124.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair124.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair125.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair125.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair126.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair126.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair127.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair127.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair128.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair128.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair129.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair129.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair130.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair130.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair131.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair131.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair132.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair132.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair133.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair133.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair134.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair134.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair135.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair135.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair136.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair136.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair137.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair137.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair138.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair138.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair139.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair139.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair140.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair140.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair141.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair141.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair142.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair142.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair143.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair143.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair144.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair144.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair145.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair145.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair146.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair146.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair147.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair147.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair148.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair148.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair149.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair149.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair150.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair150.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair151.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair151.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair152.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair152.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair153.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair153.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair154.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair154.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair155.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair155.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair156.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair156.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair157.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair157.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair158.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair158.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair159.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair159.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair160.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair160.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair161.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair161.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair162.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair162.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair163.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair163.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair164.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair164.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair165.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair165.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair166.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair166.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair167.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair167.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair168.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair168.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair169.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair169.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair170.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair170.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair171.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair171.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair172.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair172.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair173.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair173.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair174.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair174.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair175.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair175.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair176.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair176.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair177.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair177.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair178.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair178.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair179.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair179.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair180.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair180.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair181.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair181.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair182.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair182.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair183.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair183.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair184.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair184.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair185.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair185.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair186.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair186.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair187.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair187.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair188.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair188.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair189.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair189.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair190.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair190.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair191.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair191.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair192.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair192.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair193.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair193.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair194.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair194.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair195.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair195.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair196.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair196.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair197.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair197.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair198.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair198.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair199.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair199.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair200.png.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../assets/ui/kenney-crosshairs/crosshair200.png.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../icon.svg.import" beforeDir="false" afterPath="$PROJECT_DIR$/../../icon.svg.import" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../project.godot" beforeDir="false" afterPath="$PROJECT_DIR$/../../project.godot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Constants.gd" beforeDir="false" afterPath="$PROJECT_DIR$/../Constants.gd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Main.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/../Main.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main-menu/Options.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/../main-menu/Options.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TerrainNavigation.gd" beforeDir="false" afterPath="$PROJECT_DIR$/TerrainNavigation.gd" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2kyHckzwZV7nIN1eG9xShrSJKmo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\laure\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\laure\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\laure\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a11d90b-bb69-4390-974b-870e70c86d36" name="Changes" comment="" />
+      <created>1724248979789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724248979789</updated>
+      <workItem from="1724248984006" duration="330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

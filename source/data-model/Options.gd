@@ -2,7 +2,7 @@ extends Resource
 
 enum Screen { FULL = 0, WINDOW = 1 }
 
-@export var screen: Screen = Screen.FULL:
+@export var screen: Screen = Screen.WINDOW:
 	set = _set_screen
 @export var mouse_restricted = false:
 	set = _set_mouse_restricted

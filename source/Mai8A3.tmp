@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://b7cvevvcnfbmy"]
+
+[ext_resource type="Script" path="res://source/Main.gd" id="1_i28sw"]
+[ext_resource type="PackedScene" uid="uid://bqdvfvr3qyoom" path="res://source/Logos.tscn" id="2_b3u07"]
+[ext_resource type="Script" path="res://source/testing_reflection.gd" id="3_76yhq"]
+
+[node name="Main" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_i28sw")
+
+[node name="Logos" parent="." instance=ExtResource("2_b3u07")]
+layout_mode = 1
+
+[node name="Node" type="Node" parent="."]
+script = ExtResource("3_76yhq")

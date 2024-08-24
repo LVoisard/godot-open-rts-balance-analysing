@@ -72,8 +72,9 @@ func _rebake():
 	new_vertices.append_array(_map_geometry.get_vertices())
 	for i in range(original_indices_num, new_indices.size()):
 		new_indices[i] += original_vertices_num / 3
-	full_geometry.set_indices(new_indices)
-	full_geometry.set_vertices(new_vertices)
+	full_geometry.clear()
+	full_geometry.append_arrays(new_vertices,new_indices)
+	#full_geometry.set_indices(new_indices)
 
 	NavigationServer3D.bake_from_source_geometry_data_async(
 		_navigation_region.navigation_mesh, full_geometry, _on_bake_finished

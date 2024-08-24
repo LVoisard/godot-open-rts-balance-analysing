@@ -50,7 +50,7 @@ var OPTIONS_FILE_PATH:
 		pass
 	get:
 		return (
-			"user://options.tres"
+			"user://options.tscn"
 			if not FeatureFlags.save_user_files_in_tmp
 			else "res://tmp/options.tres"
 		)
