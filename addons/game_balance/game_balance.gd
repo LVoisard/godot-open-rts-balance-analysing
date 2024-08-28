@@ -8,8 +8,8 @@ func _enter_tree() -> void:
 	
 	add_control_to_dock(EditorPlugin.DOCK_SLOT_LEFT_UR, game_balance)
 	
-	var client = HTTPClient.new()
-	client.request(client.METHOD_GET, "/index.php", [""], "")
+	#var client = HTTPClient.new()
+	#client.request(client.METHOD_GET, "/index.php", [""], "")
 
 	
 func _exit_tree() -> void:

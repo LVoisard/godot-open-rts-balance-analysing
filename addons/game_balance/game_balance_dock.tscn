@@ -1,29 +1,207 @@
-[gd_scene format=3 uid="uid://4gmpeyfgpv6r"]
+[gd_scene load_steps=3 format=3 uid="uid://4gmpeyfgpv6r"]
 
-[node name="Game Balance" type="Control"]
+[ext_resource type="Script" path="res://addons/game_balance/game_balance_dock.gd" id="1_xrc3p"]
+
+[sub_resource type="Theme" id="Theme_xwt57"]
+
+[node name="Game Balance" type="Control" node_paths=PackedStringArray("dir_text", "file_tree")]
 layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -1320.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_xrc3p")
+dir_text = NodePath("VBoxContainer/File Scan Container/LineEdit")
+file_tree = NodePath("VBoxContainer/File Setup Container/File Tree")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="HSeparator" type="HSeparator" parent="."]
-layout_mode = 1
-anchors_preset = 10
-anchor_right = 1.0
-offset_bottom = 4.0
-grow_horizontal = 2
+[node name="Credentials Container" type="HBoxContainer" parent="VBoxContainer"]
+custom_minimum_size = Vector2(0, 40)
+layout_mode = 2
 
-[node name="TextEdit" type="TextEdit" parent="HSeparator"]
-custom_minimum_size = Vector2(0, 20)
-layout_mode = 1
-anchors_preset = 10
-anchor_right = 1.0
-offset_bottom = 20.0
-grow_horizontal = 2
+[node name="Login" type="Button" parent="VBoxContainer/Credentials Container"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Login
+"
 
-[node name="Button" type="Button" parent="HSeparator"]
-layout_mode = 0
-offset_right = 8.0
-offset_bottom = 8.0
+[node name="Create Account" type="Button" parent="VBoxContainer/Credentials Container"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Sign Up"
+
+[node name="HSeparator2" type="HSeparator" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="File Scan Container" type="VBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="VBoxContainer/File Scan Container"]
+layout_mode = 2
+text = "Source Code Directory"
+
+[node name="LineEdit" type="LineEdit" parent="VBoxContainer/File Scan Container"]
+layout_mode = 2
+text = "res://source/"
+placeholder_text = "res://source/"
+
+[node name="Button" type="Button" parent="VBoxContainer/File Scan Container"]
+custom_minimum_size = Vector2(0, 40)
+layout_mode = 2
+text = "Scan Files"
+
+[node name="HSeparator" type="HSeparator" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="File Setup Container" type="VBoxContainer" parent="VBoxContainer"]
+custom_minimum_size = Vector2(0, 300)
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="File Tree" type="Tree" parent="VBoxContainer/File Setup Container"]
+layout_mode = 2
+size_flags_vertical = 3
+theme = SubResource("Theme_xwt57")
+columns = 4
+column_titles_visible = true
+
+[node name="Button" type="Button" parent="VBoxContainer/File Setup Container"]
+layout_mode = 2
+text = "Save Configuration"
+
+[node name="Create Account Window" type="Window" parent="."]
+auto_translate_mode = 1
+title = "Create Account"
+initial_position = 1
+size = Vector2i(300, 340)
+visible = false
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Create Account Window"]
+custom_minimum_size = Vector2(280, 0)
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -140.0
+offset_right = 140.0
+offset_bottom = 124.0
+grow_horizontal = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="EmailLabel" type="Label" parent="Create Account Window/VBoxContainer"]
+layout_mode = 2
+text = "Email"
+
+[node name="Email" type="LineEdit" parent="Create Account Window/VBoxContainer"]
+layout_mode = 2
+text = "adawd"
+
+[node name="UsernameLabel" type="Label" parent="Create Account Window/VBoxContainer"]
+layout_mode = 2
+text = "Username"
+
+[node name="Username" type="LineEdit" parent="Create Account Window/VBoxContainer"]
+layout_mode = 2
+
+[node name="PasswordLabel" type="Label" parent="Create Account Window/VBoxContainer"]
+layout_mode = 2
+text = "Password"
+
+[node name="Password" type="LineEdit" parent="Create Account Window/VBoxContainer"]
+layout_mode = 2
+secret = true
+
+[node name="ConfirmPasswordLabel" type="Label" parent="Create Account Window/VBoxContainer"]
+layout_mode = 2
+text = "Confirm Password"
+
+[node name="ConfirmPassword" type="LineEdit" parent="Create Account Window/VBoxContainer"]
+layout_mode = 2
+secret = true
+
+[node name="Control" type="Control" parent="Create Account Window/VBoxContainer"]
+custom_minimum_size = Vector2(0, 60)
+layout_mode = 2
+
+[node name="Login Button" type="Button" parent="Create Account Window/VBoxContainer/Control"]
+custom_minimum_size = Vector2(200, 40)
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -100.0
+offset_top = -40.0
+offset_right = 100.0
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_horizontal = 4
+size_flags_vertical = 8
+text = "Login"
+
+[node name="Login Window" type="Window" parent="."]
+title = "Login"
+initial_position = 1
+size = Vector2i(300, 200)
+visible = false
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Login Window"]
+custom_minimum_size = Vector2(280, 0)
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -140.0
+offset_right = 140.0
+offset_bottom = 124.0
+grow_horizontal = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="UsernameLabel" type="Label" parent="Login Window/VBoxContainer"]
+layout_mode = 2
+text = "Username"
+
+[node name="Username" type="LineEdit" parent="Login Window/VBoxContainer"]
+layout_mode = 2
+
+[node name="PasswordLabel" type="Label" parent="Login Window/VBoxContainer"]
+layout_mode = 2
+text = "Password"
+
+[node name="Password" type="LineEdit" parent="Login Window/VBoxContainer"]
+layout_mode = 2
+secret = true
+
+[node name="Control" type="Control" parent="Login Window/VBoxContainer"]
+custom_minimum_size = Vector2(0, 60)
+layout_mode = 2
+
+[node name="Login Button" type="Button" parent="Login Window/VBoxContainer/Control"]
+custom_minimum_size = Vector2(200, 40)
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -100.0
+offset_top = -40.0
+offset_right = 100.0
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_horizontal = 4
+size_flags_vertical = 8
+text = "Login"
+
+[connection signal="pressed" from="VBoxContainer/File Scan Container/Button" to="." method="on_scan_files_button_pressed"]
+[connection signal="pressed" from="VBoxContainer/File Setup Container/Button" to="." method="on_save_config_pressed"]
